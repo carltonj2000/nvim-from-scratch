@@ -44,3 +44,26 @@ https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
 https://github.com/tpope/vim-sleuth
 
 use tabs or spaces based on what is presently being used in the file
+
+## nvzon/showkeys
+
+`:ShowkeysToggle` to enable/disable also in `lua\config\lazy.lua`
+
+## treesitter.nvim
+
+https://github.com/nvim-treesitter/nvim-treesitter
+
+## nvim-treesitter-textobjects
+
+https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+
+## which-key
+
+https://github.com/folke/which-key.nvim
+
+## To Do
+
+- [X] todo 1
+- [X] todo 2
+- [ ] todo 3
+- [ ] todo 4

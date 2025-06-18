@@ -37,3 +37,6 @@ require("lazy").setup({
 })
 
 require("config.keymaps")
+
+-- enable line below to show keys during recording / etc
+-- vim.cmd("ShowkeysToggle")
