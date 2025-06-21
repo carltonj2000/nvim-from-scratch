@@ -61,6 +61,16 @@ https://github.com/nvim-treesitter/nvim-treesitter-textobjects
 
 https://github.com/folke/which-key.nvim
 
+## fzf-lua
+
+https://github.com/ibhagwan/fzf-lua
+
+install
+- `fzf` fuzzy find files in directory
+- `ripgre` fuzzy find words in files
+-`project.nvim` finds and sets the project base directory find and grep
+
+
 ## To Do
 
 - [X] todo 1
