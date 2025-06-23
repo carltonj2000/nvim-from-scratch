@@ -70,6 +70,16 @@ install
 - `ripgre` fuzzy find words in files
 -`project.nvim` finds and sets the project base directory find and grep
 
+## lsp
+
+Copy 206 line of the lsp config from the link below and add it to lsp.lua
+
+https://github.com/nvim-lua/kickstart.nvim
+
+Add `dressing.nvim`
+Add lsp in `lsp.lua` `server` section.
+The rust lsp `rustanceanvim.lua` is setup outside of `lsp.lua` and `mason`.
+Add rust support via `rustup component add rust-analyzer`.
 
 ## To Do
 
