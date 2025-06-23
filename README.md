@@ -70,7 +70,7 @@ install
 - `ripgre` fuzzy find words in files
 -`project.nvim` finds and sets the project base directory find and grep
 
-## lsp
+## LSP and Mason
 
 Copy 206 line of the lsp config from the link below and add it to lsp.lua
 
@@ -81,7 +81,14 @@ Add lsp in `lsp.lua` `server` section.
 The rust lsp `rustanceanvim.lua` is setup outside of `lsp.lua` and `mason`.
 Add rust support via `rustup component add rust-analyzer`.
 
-## To Do
+## conform.nvim
+
+https://github.com/stevearc/conform.nvim
+
+run via `:lua require('conform').format()`
+
+
+# To Do
 
 - [X] todo 1
 - [X] todo 2
