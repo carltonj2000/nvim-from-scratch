@@ -16,6 +16,7 @@ return {
 			json = { "prettier", stop_after_first = true },
 			html = { "prettier", stop_after_first = true },
 			css = { "prettier", stop_after_first = true },
+			markdown = { "prettier", stop_after_first = true },
 		},
 		format_on_save = {
 			timeout_ms = 500,

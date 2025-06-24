@@ -66,9 +66,10 @@ https://github.com/folke/which-key.nvim
 https://github.com/ibhagwan/fzf-lua
 
 install
+
 - `fzf` fuzzy find files in directory
 - `ripgre` fuzzy find words in files
--`project.nvim` finds and sets the project base directory find and grep
+- `project.nvim` finds and sets the project base directory find and grep
 
 ## LSP and Mason
 
@@ -91,11 +92,23 @@ run via `:lua require('conform').format()`
 
 https://github.com/Saghen/blink.cmp
 
+## render-markdown.nvim
+
+https://github.com/MeanderingProgrammer/render-markdown.nvim
+
 # To Do
 
-- [X] todo 1
-- [X] todo 2
+- [ ] todo 1
+- [x] todo 2
 - [ ] todo 3
-- [ ] todo 4
+- [x] todo 4
 
+## Some Table
 
+| Item | Details |
+| ---- | ------- |
+| a    | b       |
+| c    | d       |
+
+> [!Warning]
+> Stand Back
