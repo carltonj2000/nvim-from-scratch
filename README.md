@@ -87,6 +87,9 @@ https://github.com/stevearc/conform.nvim
 
 run via `:lua require('conform').format()`
 
+## blink.cmp
+
+https://github.com/Saghen/blink.cmp
 
 # To Do
 
@@ -94,3 +97,5 @@ run via `:lua require('conform').format()`
 - [X] todo 2
 - [ ] todo 3
 - [ ] todo 4
+
+
