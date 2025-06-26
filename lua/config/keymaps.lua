@@ -9,3 +9,9 @@ vim.keymap.set("n", "<leader>cf", function()
 		lsp_format = "fallback",
 	})
 end, { desc = "Format current file" })
+vim.keymap.set("n", "<c-k>", "<cmd>wincmd k<CR>", { desc = "Window Up" })
+vim.keymap.set("n", "<c-j>", "<cmd>wincmd j<CR>", { desc = "Window Down" })
+vim.keymap.set("n", "<c-h>", "<cmd>wincmd h<CR>", { desc = "Window Left" })
+vim.keymap.set("n", "<c-l>", "<cmd>wincmd l<CR>", { desc = "Window Right" })
+
+vim.keymap.set("n", "<leader>h", "<cmd>nohlsearch<CR>", { desc = "nohlsearch" })
