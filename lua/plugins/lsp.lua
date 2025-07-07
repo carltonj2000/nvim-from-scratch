@@ -236,6 +236,7 @@ return {
 			ts_ls = {},
 			astro = {},
 			mdx_analyzer = {},
+			tailwindcss = {},
 		}
 
 		-- Ensure the servers and tools above are installed
